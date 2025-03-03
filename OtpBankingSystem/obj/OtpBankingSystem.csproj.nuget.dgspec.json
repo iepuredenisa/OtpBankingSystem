@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\OtpBankingSystem.csproj": {}
+    "C:\\Users\\iepur\\OneDrive\\Desktop\\OTPapp\\OtpBankingSystem\\OtpBankingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\OtpBankingSystem.csproj": {
+    "C:\\Users\\iepur\\OneDrive\\Desktop\\OTPapp\\OtpBankingSystem\\OtpBankingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\OtpBankingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\iepur\\OneDrive\\Desktop\\OTPapp\\OtpBankingSystem\\OtpBankingSystem.csproj",
         "projectName": "OtpBankingSystem",
-        "projectPath": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\OtpBankingSystem.csproj",
+        "projectPath": "C:\\Users\\iepur\\OneDrive\\Desktop\\OTPapp\\OtpBankingSystem\\OtpBankingSystem.csproj",
         "packagesPath": "C:\\Users\\iepur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\obj\\",
+        "outputPath": "C:\\Users\\iepur\\OneDrive\\Desktop\\OTPapp\\OtpBankingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
