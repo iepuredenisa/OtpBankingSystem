@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|c:\\users\\iepur\\source\\repos\\otpbankingsystem\\controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|solutionrelative:controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|c:\\users\\iepur\\source\\repos\\otpbankingsystem\\bll\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|solutionrelative:bll\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|c:\\users\\iepur\\source\\repos\\otpbankingsystem\\bll\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|solutionrelative:bll\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|c:\\users\\iepur\\source\\repos\\otpbankingsystem\\library\\models\\otprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|solutionrelative:library\\models\\otprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|c:\\users\\iepur\\source\\repos\\otpbankingsystem\\dal\\repositories\\iotprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|solutionrelative:dal\\repositories\\iotprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|c:\\users\\iepur\\source\\repos\\otpbankingsystem\\dal\\context\\rediscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|solutionrelative:dal\\context\\rediscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|c:\\users\\iepur\\source\\repos\\otpbankingsystem\\dal\\repositories\\otprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|solutionrelative:dal\\repositories\\otprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|c:\\users\\iepur\\source\\repos\\otpbankingsystem\\library\\models\\otpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|solutionrelative:library\\models\\otpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|c:\\users\\iepur\\source\\repos\\otpbankingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|c:\\users\\iepur\\source\\repos\\otpbankingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CC3C5F1-6A34-4DD9-976D-EA8045758084}|OtpBankingSystem.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:38:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:50:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:51:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:52:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:53:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:59:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:57:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:60:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOtpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\DAL\\Repositories\\IOtpRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\IOtpRepository.cs",
+              "ToolTip": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\DAL\\Repositories\\IOtpRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\IOtpRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:17:43.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OtpDTO.cs",
+              "DocumentMoniker": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\Library\\Models\\OtpDTO.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\OtpDTO.cs",
+              "ToolTip": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\Library\\Models\\OtpDTO.cs",
+              "RelativeToolTip": "Library\\Models\\OtpDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:48:25.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OtpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\DAL\\Repositories\\OtpRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\OtpRepository.cs",
+              "ToolTip": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\DAL\\Repositories\\OtpRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\OtpRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:17:01.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOtpService.cs",
+              "DocumentMoniker": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\BLL\\IOtpService.cs",
+              "RelativeDocumentMoniker": "BLL\\IOtpService.cs",
+              "ToolTip": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\BLL\\IOtpService.cs",
+              "RelativeToolTip": "BLL\\IOtpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:34:28.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OtpController.cs",
+              "DocumentMoniker": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\Controllers\\OtpController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OtpController.cs",
+              "ToolTip": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\Controllers\\OtpController.cs",
+              "RelativeToolTip": "Controllers\\OtpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:38:02.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\BLL\\OtpService.cs",
+              "RelativeDocumentMoniker": "BLL\\OtpService.cs",
+              "ToolTip": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\BLL\\OtpService.cs",
+              "RelativeToolTip": "BLL\\OtpService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:25:51.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RedisContext.cs",
+              "DocumentMoniker": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\DAL\\Context\\RedisContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\RedisContext.cs",
+              "ToolTip": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\DAL\\Context\\RedisContext.cs",
+              "RelativeToolTip": "DAL\\Context\\RedisContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:58:41.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OtpRequest.cs",
+              "DocumentMoniker": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\Library\\Models\\OtpRequest.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\OtpRequest.cs",
+              "ToolTip": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\Library\\Models\\OtpRequest.cs",
+              "RelativeToolTip": "Library\\Models\\OtpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:44:31.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:07:58.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\iepur\\source\\repos\\OtpBankingSystem\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T19:59:50.889Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "c7aqXkbKkFOcJU9ZxaNhL4pHynz+3bEg5Ipqz9B0Ifg=",
+  "Source": "OtpBankingSystem",
+  "BasePath": "_content/OtpBankingSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

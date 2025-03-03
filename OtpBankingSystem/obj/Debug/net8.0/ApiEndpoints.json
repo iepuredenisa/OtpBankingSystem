@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "OtpController",
+    "Method": "GenerateOtp",
+    "RelativePath": "api/otp/generate-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtpController",
+    "Method": "VerifyOtp",
+    "RelativePath": "api/otp/verify-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OtpBankingSystem.Library.Models.OtpOnlyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
